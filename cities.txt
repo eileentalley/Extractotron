@@ -47,6 +47,7 @@ Asia	1850147	36.558	138.779	34.867	141.152	tokyo	Tokyo
 Europe	2759794	52.629	4.465	52.163	5.347	amsterdam	Amsterdam
 Europe	2759794	38.365	22.949	37.514	24.421	athens	Athens
 Europe	3128760	41.687	1.734	41.075	2.496	barcelona	Barcelona
+Europe 81630	49.4715 2.0124 49.4018 2.1720 beauvais Beauvais
 Europe	2950159	52.994	12.260	51.849	14.699	berlin	Berlin
 Europe	3128026	43.500	-3.363	43.043	-2.555	bilbao	Bilbao, Spain
 Europe	2655603	52.794	-2.536	52.214	-1.267	birmingham	Birmingham
